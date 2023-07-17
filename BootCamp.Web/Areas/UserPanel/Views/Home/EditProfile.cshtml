@@ -1,0 +1,176 @@
+﻿@model BootCamp.Core.DTOs.EditProfileViewModel
+
+<section class="page-title style-two">
+    <div class="auto-container">
+        <h1>ویرایش پروفایل</h1>
+    </div>
+</section>
+<!--End Page Title-->
+<!-- Edit Profile Section -->
+<section class="edit-profile-section">
+    <div class="patern-layer-one paroller" data-paroller-factor="0.40" data-paroller-factor-lg="0.20" data-paroller-type="foreground" data-paroller-direction="vertical" style="background-image: url(images/icons/icon-1.png)"></div>
+    <div class="patern-layer-two paroller" data-paroller-factor="0.40" data-paroller-factor-lg="-0.20" data-paroller-type="foreground" data-paroller-direction="vertical" style="background-image: url(images/icons/icon-2.png)"></div>
+    <div class="auto-container">
+
+        <div class="row clearfix">
+
+            <!-- Image Section -->
+            <div class="image-column col-lg-3 col-md-12 col-sm-12">
+                <div class="inner-column">
+                    <div class="image">
+                        <img src="/UserAvatar/@Model.AvatarName">
+                    </div>
+                    @* <form asp-action="EditProfile" method="post">
+                    <div class="col-lg-6 col-md-6 col-sm-12 form-group">
+                    <input asp-for="UserAvatar" type="file" name="avatarName">
+                    <span class="icon flaticon-edit-1"></span>
+                    </div>
+                    <div class="col-lg-12 col-md-12 col-sm-12 form-group text-right">
+                    <button class="theme-btn btn-style-three" type="submit" name="submit-form"><span class="txt">تغییر تصویر <i class="fa fa-angle-left"></i></span></button>
+                    </div>
+                    </form>*@
+                </div>
+            </div>
+
+            <!-- Content Section -->
+            <div class="content-column col-lg-9 col-md-12 col-sm-12">
+                <div class="inner-column">
+
+                    <!-- Edit Profile Info Tabs-->
+                    <div class="edit-profile-info-tabs">
+                        <!-- Profile Tabs-->
+                        <div class="edit-profile-tabs tabs-box">
+
+                            <!--Tab Btns-->
+                            <ul class="tab-btns tab-buttons clearfix">
+                                <li data-tab="#prod-overview" class="tab-btn active-btn">اطلاعات کاربر</li>
+                                <li data-tab="#prod-bookmark" class="tab-btn">تغییر کلمه عبور</li>
+
+                            </ul>
+
+
+                            <!--Tabs Container-->
+                            <div class="tabs-content">
+
+                                <!--Tab / Active Tab-->
+                                <div class="tab active-tab" id="prod-overview">
+                                    <div class="content">
+                                        <!-- Title Box -->
+                                       
+
+                                        <!-- Profile Form -->
+                                        <div class="profile-form">
+
+                                            <!-- Profile Form -->
+                                            <form asp-action="EditProfile" method="post" enctype="multipart/form-data">
+                                                @if (ViewBag.IsSuccess != null)
+                                                {
+                                                    <div class="alert alert-success">
+                                                        اطلاعات کاربری شما با موفقیت ویرایش شد
+                                                    </div>
+                                                }
+
+                                               
+                                                <div class="row clearfix">
+
+                                                    <div class="col-lg-6 col-md-6 col-sm-12 form-group">
+                                                        <input asp-for="UserName" type="text" name="username" placeholder=" نام کاربری" required="">
+                                                        <span class="icon flaticon-edit-1"></span>
+                                                    </div>
+
+                                                    <div class="col-lg-6 col-md-6 col-sm-12 form-group">
+                                                        <input asp-for="Email" type="email" name="email" placeholder="ایمیل" required="">
+                                                        <span class="icon flaticon-edit-1"></span>
+                                                    </div>
+
+
+                                                    @*	<div class="col-lg-12 col-md-12 col-sm-12 form-group">
+                                                    <select class="custom-select-box">
+                                                    <option>نوع عضویت</option>
+                                                    <option>عضویت 01</option>
+                                                    <option>عضویت 02</option>
+                                                    <option>عضویت 03</option>
+                                                    <option>عضویت 04</option>
+                                                    <option>عضویت 05</option>
+                                                    </select>
+                                                    </div>*@
+
+                                                  
+
+                                                </div>
+                                                <input type="hidden" asp-for="AvatarName" />
+                                                <div class="col-md-7 col-sm-8 col-xs-12">
+                                                    <p class="help-block">
+                                                        آواتار
+                                                    </p>
+                                                    <input type="file" asp-for="UserAvatar" />
+                                                    <p>لطفا فقط تصویر انتخاب کنید</p>
+                                                    <img class="thumbnail" src="/UserAvatar/@Model.AvatarName" style="max-width: 150px" />
+                                                </div>
+                                                <div class="col-lg-12 col-md-12 col-sm-12 form-group text-right">
+                                                    <button class="theme-btn btn-style-three" type="submit" name="submit-form"><span class="txt">ذخیره تغییرات <i class="fa fa-angle-left"></i></span></button>
+                                                </div>
+                                            </form>
+
+                                        </div>
+
+                                    </div>
+                                </div>
+
+                                <div class="tab" id="prod-bookmark">
+                                    <div class="content">
+
+                                        <!-- Title Box -->
+                                        <div class="title-box">
+                                            <h5>ویرایش کلمه عبور</h5>
+                                        </div>
+
+                                        <!-- Profile Form -->
+                                        <div class="profile-form">
+
+                                            <!-- Profile Form -->
+                                            <form asp-action="EditProfile" method="post">
+                                                <div class="row clearfix">
+
+                                                    <div class="col-lg-6 col-md-6 col-sm-12 form-group">
+                                                        <input asp-for="OldPassword" type="text" name="OldPassword" placeholder="کلمه عبور فعلی" required="">
+                                                        <span class="icon flaticon-edit-1"></span>
+                                                    </div>
+
+                                                    <div class="col-lg-6 col-md-6 col-sm-12 form-group">
+                                                        <input asp-for="Password" type="text" name="Password" placeholder="کلمه عبور جدید" required="">
+                                                        <span class="icon flaticon-edit-1"></span>
+                                                    </div>
+
+                                                    <div class="col-lg-6 col-md-6 col-sm-12 form-group">
+                                                        <input asp-for="RePassword" type="text" name="RePassword" placeholder="تکرار کلمه عبور جدید" required="">
+                                                        <span class="icon flaticon-edit-1"></span>
+                                                    </div>
+
+                                                    <div class="col-lg-12 col-md-12 col-sm-12 form-group text-right">
+                                                        <button class="theme-btn btn-style-three" type="submit" name="submit-form"><span class="txt">ذخیره تغییرات <i class="fa fa-angle-left"></i></span></button>
+                                                    </div>
+
+                                                </div>
+                                            </form>
+
+                                        </div>
+
+
+                                    </div>
+                                </div>
+
+
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+
+        </div>
+
+    </div>
+
+</section>
+<!-- End Profile Section -->

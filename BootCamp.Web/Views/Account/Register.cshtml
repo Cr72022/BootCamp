@@ -1,0 +1,98 @@
+﻿@model BootCamp.Core.DTOs.RegisterViewModel
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Bootcamp HTML Template | Register</title>
+</head>
+
+<body>
+
+	<div class="page-wrapper">
+
+		<div class="preloader"></div>
+
+		<section class="page-title">
+			<div class="auto-container">
+				<h1>ثبت نام</h1>
+
+				<!-- Search Boxed -->
+				<div class="search-boxed">
+					<div class="search-box">
+						<form method="post" action="contact.html">
+							<div class="form-group">
+								<input type="search" name="search-field" value="" placeholder="چه چیز را میخواهی یاد بگیری؟" required>
+								<button type="submit"><span class="icon fa fa-search"></span></button>
+							</div>
+						</form>
+					</div>
+				</div>
+
+			</div>
+		</section>
+		<!--End Page Title-->
+		<!-- Register Section -->
+		<section class="register-section">
+			<div class="auto-container">
+				<div class="register-box">
+
+					<!-- Title Box -->
+					<div class="title-box">
+						<h2>ثبت نام</h2>
+						<div class="text"><span class="theme_color">خوش آمدید!</span> لطفاً تأیید کنید که بازدید می کنید</div>
+					</div>
+
+					<!-- Login Form -->
+					<div class="styled-form">
+						<form asp-action="Register" method="post">
+
+							<div class="row clearfix">
+
+								<!-- Form Group -->
+								<div class="form-group col-lg-6 col-md-12 col-sm-12">
+									<label>نام</label>
+									<input asp-for="UserName" type="text" name="username" value="" placeholder="نام کاربری" required>
+								</div>
+
+								
+								<div class="form-group col-lg-6 col-md-12 col-sm-12">
+									<label>آدرس ایمیل</label>
+									<input asp-for="Email" type="email" name="email" value="" placeholder="abcd@gmail.com" required>
+								</div>
+
+								
+								<div class="form-group col-lg-6 col-md-12 col-sm-12">
+									<label>کلمه عبور</label>
+									<span class="eye-icon flaticon-eye"></span>
+									<input asp-for="Password" type="password" name="password" value="" placeholder="کلمه عبور" required>
+								</div>
+
+								<!-- Form Group -->
+								<div class="form-group col-lg-6 col-md-12 col-sm-12">
+									<label>رمز عبور را تأیید کنید</label>
+									<span class="eye-icon flaticon-eye"></span>
+									<input asp-for="RePassword" type="password" name="rePassword" value="" placeholder="تکرار کلمه عبور" required>
+								</div>
+
+								<div class="form-group col-lg-12 col-md-12 col-sm-12 text-center">
+									<button type="submit" class="theme-btn btn-style-three"><span class="txt">ثبت نام <i class="fa fa-angle-left"></i></span></button>
+								</div>
+
+								<div class="form-group col-lg-12 col-md-12 col-sm-12">
+									<div class="users">قبلاً ثبت نام کردید؟ <a href="/Login">ورود</a></div>
+								</div>
+
+							</div>
+
+						</form>
+					</div>
+
+				</div>
+			</div>
+		</section>
+		
+		
+
+	</div>
+	
+</body>
+</html>

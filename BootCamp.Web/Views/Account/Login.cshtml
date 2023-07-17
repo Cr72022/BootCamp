@@ -1,0 +1,74 @@
+﻿@model BootCamp.Core.DTOs.LoginViewModel
+<section class="page-title">
+	<div class="auto-container">
+		<h1>ورود</h1>
+
+		<div class="search-boxed">
+			<div class="search-box">
+				<form method="post" action="contact.html">
+					<div class="form-group">
+						<input type="search" name="search-field" value="" placeholder="چه چیز را میخواهی یاد بگیری؟" required>
+						<button type="submit"><span class="icon fa fa-search"></span></button>
+					</div>
+				</form>
+			</div>
+		</div>
+
+	</div>
+</section>
+<section class="login-section">
+	<div class="auto-container">
+		<div class="login-box">
+			@if (ViewBag.IsSuccess != null)
+			{
+				<div class="alert alert-success">
+					<p class="help-block">ورود با موفقیت انجام شد</p>
+				</div>
+
+				<script>
+					// Your delay in milliseconds
+					var delay = 3000;
+					setTimeout(function () { window.location = "https://localhost:7091/UserPanel"; }, delay);
+				</script>
+			}
+			<div class="title-box">
+				<h2>ورود</h2>
+				<div class="text"><span class="theme_color">خوش آمدید!</span> لطفاً تأیید کنید که بازدید می کنید</div>
+			</div>
+
+			<div class="styled-form">
+				<form asp-action="Login" method="post">
+					<div class="form-group">
+						<label>نام کاربری</label>
+						<input asp-for="UserName" type="text" name="username" value="" placeholder="نام کاربری" required>
+					</div>
+					<div class="form-group">
+						<label>کلمه عبور</label>
+						<span class="eye-icon flaticon-eye"></span>
+						<input asp-for="Password" type="password" name="password" value="" placeholder="کلمه عبور" required>
+					</div>
+					<div class="form-group">
+						<div class="clearfix">
+							<div class="pull-right">
+								<div class="check-box">
+									<input type="checkbox" name="remember-password" id="type-1">
+									<label asp-for="RememberMe" for="type-1">کلمه عبور را به خاطر بسپار</label>
+								</div>
+							</div>
+							<div class="pull-left">
+								<a href="/ForgotPassword" class="forgot">کلمه عبور را فراموش کرده اید؟</a>
+							</div>
+						</div>
+					</div>
+					<div class="form-group text-center">
+						<button type="submit" class="theme-btn btn-style-three"><span class="txt">ورود <i class="fa fa-angle-left"></i></span></button>
+					</div>
+					<div class="form-group">
+						<div class="users">کاربر جدید؟ <a href="/Register">ثبت نام</a></div>
+					</div>
+				</form>
+			</div>
+
+		</div>
+	</div>
+</section>

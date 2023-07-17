@@ -1,0 +1,56 @@
+﻿@model IEnumerable<BootCamp.DataLayer.Entities.Course.CourseGroup>
+<head>
+    <link href="/css/site.css" rel="stylesheet">
+
+</head>
+<div >
+    <div  >
+        <nav class="nav-area">
+            <span class="responsive-sign"><i class="zmdi zmdi-menu"></i></span>
+            <ul>
+                <li>
+                    <a href="#">خانه</a>
+                    <ul>
+                        <li><a href="index.html">خانه 1</a></li>
+                        <li><a href="index-2.html">خانه 2</a></li>
+                        <li><a href="index-3.html">خانه 3</a></li>
+                    </ul>
+                </li>
+
+
+                <li>
+                    <a href="#">دوره های آموزشی</a>
+                    <ul>
+                        @foreach (var group in Model.Where(g => g.ParentId == null))
+                        {
+                            <li>
+                                <a href="course.html">@group.GroupTitle</a>
+
+                                @if (Model.Any(g => g.ParentId == group.GroupId))
+                                {
+                                    <ul>
+                                        @foreach (var sub in Model.Where(g => g.ParentId == group.GroupId))
+                                        {
+                                            <li><a href=""> @sub.GroupTitle </a></li>
+                                        }
+                                    </ul>
+                                }
+                            </li>
+                        }
+
+                    </ul>
+                </li>
+                
+                <li >
+                    <a href="#">وبلاگ</a>
+                    <ul>
+                        <li><a href="blog.html">وبلاگ</a></li>
+                        <li><a href="blog-detail.html">جزئیات وبلاگ</a></li>
+                    </ul>
+                </li>
+                <li><a href="contact.html">تماس با ما</a></li>
+            </ul>
+        </nav>
+    </div>
+</div>
+</nav>

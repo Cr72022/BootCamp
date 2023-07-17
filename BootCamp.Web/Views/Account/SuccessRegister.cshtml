@@ -1,0 +1,56 @@
+﻿@model BootCamp.Core.DTOs.RegisterViewModel
+
+@{
+    Layout = null;
+}
+<!DOCTYPE html>
+<html>
+<head>
+
+    <title>Bootcamp HTML Template | Homepage</title>
+
+    <partial name="_Styles" />
+    <partial name="_Meta" />
+</head>
+
+<body>
+    @{
+        ViewData["Title"] = "پایان ثبت نام";
+    }
+
+    @*<nav aria-label="breadcrumb">
+    <ul class="breadcrumb">
+    <li class="breadcrumb-item"><a href="/">تاپ لرن</a></li>
+    <li class="breadcrumb-item active" aria-current="page">پایان ثبت نام</li>
+    </ul>
+    </nav>
+    *@
+    <div class="alert alert-success">
+        <h2>@Model.UserName عزیز !</h2>
+        <p>ثبت نام شما انجام شد ، ایمیلی حاوی لینک فعالسازی به ایمیل "@Model.Email" ارسال شد .</p>
+        <p>جهت ادامه ثبت نام وارد ایمیل خود شوید و روی لینک کلیک کنید .</p>
+    </div>
+    <partial name="_Footer" />
+    <div class="scroll-to-top scroll-to-target" data-target="html"><span class="fa fa-arrow-circle-up"></span></div>
+
+    <script src="/js/jquery.js"></script>
+    <script src="/js/popper.min.js"></script>
+    <script src="/js/jquery.scrollTo.js"></script>
+    <script src="/js/bootstrap.min.js"></script>
+    <script src="/js/jquery.mCustomScrollbar.concat.min.js"></script>
+    <script src="/js/jquery.fancybox.js"></script>
+    <script src="/js/appear.js"></script>
+    <script src="/js/swiper.min.js"></script>
+    <script src="/js/element-in-view.js"></script>
+    <script src="/js/jquery.paroller.min.js"></script>
+    <script src="/js/parallax.min.js"></script>
+    <script src="/js/tilt.jquery.min.js"></script>
+    <!--Master Slider-->
+    <script src="/js/jquery.easing.min.js"></script>
+    <script src="/js/owl.js"></script>
+    <script src="/js/wow.js"></script>
+    <script src="/js/jquery-ui.js"></script>
+    <script src="/js/script.js"></script>
+
+</body>
+</html>

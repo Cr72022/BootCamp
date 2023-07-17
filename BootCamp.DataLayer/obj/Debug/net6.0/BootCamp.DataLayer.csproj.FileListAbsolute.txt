@@ -1,0 +1,14 @@
+D:\New folder\TuturialPractice\BootCamp\BootCamp\BootCamp.DataLayer\bin\Debug\net6.0\BootCamp.DataLayer.deps.json
+D:\New folder\TuturialPractice\BootCamp\BootCamp\BootCamp.DataLayer\bin\Debug\net6.0\BootCamp.DataLayer.runtimeconfig.json
+D:\New folder\TuturialPractice\BootCamp\BootCamp\BootCamp.DataLayer\bin\Debug\net6.0\BootCamp.DataLayer.dll
+D:\New folder\TuturialPractice\BootCamp\BootCamp\BootCamp.DataLayer\bin\Debug\net6.0\BootCamp.DataLayer.pdb
+D:\New folder\TuturialPractice\BootCamp\BootCamp\BootCamp.DataLayer\obj\Debug\net6.0\BootCamp.DataLayer.csproj.AssemblyReference.cache
+D:\New folder\TuturialPractice\BootCamp\BootCamp\BootCamp.DataLayer\obj\Debug\net6.0\BootCamp.DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder\TuturialPractice\BootCamp\BootCamp\BootCamp.DataLayer\obj\Debug\net6.0\BootCamp.DataLayer.AssemblyInfoInputs.cache
+D:\New folder\TuturialPractice\BootCamp\BootCamp\BootCamp.DataLayer\obj\Debug\net6.0\BootCamp.DataLayer.AssemblyInfo.cs
+D:\New folder\TuturialPractice\BootCamp\BootCamp\BootCamp.DataLayer\obj\Debug\net6.0\BootCamp.DataLayer.csproj.CoreCompileInputs.cache
+D:\New folder\TuturialPractice\BootCamp\BootCamp\BootCamp.DataLayer\obj\Debug\net6.0\BootCamp.DataLayer.dll
+D:\New folder\TuturialPractice\BootCamp\BootCamp\BootCamp.DataLayer\obj\Debug\net6.0\refint\BootCamp.DataLayer.dll
+D:\New folder\TuturialPractice\BootCamp\BootCamp\BootCamp.DataLayer\obj\Debug\net6.0\BootCamp.DataLayer.pdb
+D:\New folder\TuturialPractice\BootCamp\BootCamp\BootCamp.DataLayer\obj\Debug\net6.0\BootCamp.DataLayer.genruntimeconfig.cache
+D:\New folder\TuturialPractice\BootCamp\BootCamp\BootCamp.DataLayer\obj\Debug\net6.0\ref\BootCamp.DataLayer.dll

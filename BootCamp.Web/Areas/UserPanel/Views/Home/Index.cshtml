@@ -1,0 +1,675 @@
+﻿@using BootCamp.Core.Convertors;
+@using BootCamp.Core.DTOs;
+@model BootCamp.Core.DTOs.MainPanelViewModel
+<section class="page-title">
+    <div class="auto-container">
+        <h1>پروفایل دانشجویی</h1>
+
+        <!-- Search Boxed -->
+        <div class="search-boxed">
+            <div class="search-box">
+                <form method="post" action="contact.html">
+                    <div class="form-group">
+                        <input type="search" name="search-field" value="" placeholder="چه چیز را میخواهی یاد بگیری؟" required="">
+                        <button type="submit"><span class="icon fa fa-search"></span></button>
+                    </div>
+                </form>
+            </div>
+        </div>
+
+    </div>
+</section>
+<section class="student-profile-section">
+    <div class="patern-layer-one paroller" data-paroller-factor="0.40" data-paroller-factor-lg="0.20" data-paroller-type="foreground" data-paroller-direction="vertical" style="background-image: url(&quot;images/icons/icon-1.png&quot;); transform: translateY(-450px); transition: transform 0s linear 0s; will-change: transform;"></div>
+    <div class="patern-layer-two paroller" data-paroller-factor="0.40" data-paroller-factor-lg="-0.20" data-paroller-type="foreground" data-paroller-direction="vertical" style="background-image: url(&quot;images/icons/icon-2.png&quot;); transform: translateY(-386px); transition: transform 0s linear 0s; will-change: transform;"></div>
+    <div class="circle-one"></div>
+    <div class="circle-two"></div>
+    <div class="auto-container">
+
+        <div class="row clearfix">
+
+            <!-- Image Section -->
+            <div class="image-column col-lg-3 col-md-12 col-sm-12">
+                <div class="inner-column">
+                    <div class="image">
+                        <img src="/UserAvatar/@Model.user.AvatarName">
+                    </div>
+                    <li> <i class="zmdi zmdi-assignment-account"></i> نام کاربری :  @Model.user.UserName </li>
+                    <li> <i class="zmdi zmdi-email"></i> ایمیل : @Model.user.Email </li>
+                    <li> <i class="zmdi zmdi-calendar-check"></i> تاریخ عضویت : @Model.user.RegisterDate.ToShamsi() </li>
+                    <li> <i class="zmdi zmdi-account"></i> موجودی حساب : @Model.user.Wallet تومان </li>
+                    @*					<div class="text">عضو حرفه ای</div>
+                    *@			@*		<div class="social-box">
+                    <a href="#" class="fa fa-facebook-square"></a>
+                    <a href="#" class="fa fa-twitter-square"></a>
+                    <a href="#" class="fa fa-linkedin-square"></a>
+                    <a href="#" class="fa fa-github"></a>
+                    </div>*@
+                    <ul class="student-editing">
+                        <li><a href="/UserPanel/EditProfile">ویرایش پروفایل</a></li>
+
+                        @*						<li><a href="intro-profile.html">اطلاعیه</a></li>
+                        *@@*						<li><a href="edit-profile.html">ارتقاء عضویت</a></li>
+                        *@
+                    </ul>
+                </div>
+            </div>
+
+            <!-- Content Section -->
+            <div class="content-column col-lg-9 col-md-12 col-sm-12">
+                <div class="inner-column">
+
+                    <!-- Profile Info Tabs-->
+                    <div class="profile-info-tabs">
+                        <!-- Profile Tabs-->
+                        <div class="profile-tabs tabs-box">
+
+                            <!--Tab Btns-->
+                            <ul class="tab-btns tab-buttons clearfix">
+                                <li data-tab="#prod-overview" class="tab-btn active-btn">بررسی</li>
+                                <li data-tab="#prod-billing" class="tab-btn">
+                                    کیف پول
+
+                                </li>
+                                <li data-tab="#prod-setting" class="tab-btn">تنظیمات</li>
+                            </ul>
+
+                            <!--Tabs Container-->
+                            <div class="tabs-content">
+
+                                <!--Tab / Active Tab-->
+                                <div class="tab active-tab" id="prod-overview" style="display: block;">
+                                    <div class="content">
+                                        <!-- Sec Title -->
+                                        <div class="sec-title">
+                                            <h2>دوره های در حال پیشرفت</h2>
+                                        </div>
+
+                                        <div class="row clearfix">
+
+                                            <!-- Cource Block Two -->
+                                            <div class="cource-block-two col-lg-4 col-md-6 col-sm-12">
+                                                <div class="inner-box">
+                                                    <div class="image">
+                                                        <a href="course-detail.html"><img src="images/resource/course-6.jpg" alt=""></a>
+                                                    </div>
+                                                    <div class="lower-content">
+                                                        <h5><a href="course-detail.html">طراحی تعامل</a></h5>
+                                                        <div class="text">لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ، و با استفاده از طراحان گرافیک است.</div>
+                                                        <div class="clearfix">
+                                                            <div class="pull-right">
+                                                                <div class="students">12 مدرس</div>
+                                                            </div>
+                                                            <div class="pull-left">
+                                                                <div class="hours">54 ساعت</div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+
+                                            <!-- Cource Block Two -->
+                                            <div class="cource-block-two col-lg-4 col-md-6 col-sm-12">
+                                                <div class="inner-box">
+                                                    <div class="image">
+                                                        <a href="course-detail.html"><img src="images/resource/course-7.jpg" alt=""></a>
+                                                    </div>
+                                                    <div class="lower-content">
+                                                        <h5><a href="course-detail.html">طراحی بصری</a></h5>
+                                                        <div class="text">لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ، و با استفاده از طراحان گرافیک است.</div>
+                                                        <div class="clearfix">
+                                                            <div class="pull-right">
+                                                                <div class="students">12 مدرس</div>
+                                                            </div>
+                                                            <div class="pull-left">
+                                                                <div class="hours">54 ساعت</div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+
+                                            <!-- Cource Block Two -->
+                                            <div class="cource-block-two col-lg-4 col-md-6 col-sm-12">
+                                                <div class="inner-box">
+                                                    <div class="image">
+                                                        <a href="course-detail.html"><img src="images/resource/course-8.jpg" alt=""></a>
+                                                    </div>
+                                                    <div class="lower-content">
+                                                        <h5><a href="course-detail.html">دوره کدنویسی</a></h5>
+                                                        <div class="text">لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ، و با استفاده از طراحان گرافیک است.</div>
+                                                        <div class="clearfix">
+                                                            <div class="pull-right">
+                                                                <div class="students">12 مدرس</div>
+                                                            </div>
+                                                            <div class="pull-left">
+                                                                <div class="hours">54 ساعت</div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+
+                                            <!-- Cource Block Two -->
+                                            <div class="cource-block-two col-lg-4 col-md-6 col-sm-12">
+                                                <div class="inner-box">
+                                                    <div class="image">
+                                                        <a href="course-detail.html"><img src="images/resource/course-9.jpg" alt=""></a>
+                                                    </div>
+                                                    <div class="lower-content">
+                                                        <h5><a href="course-detail.html">تئوری رنگ</a></h5>
+                                                        <div class="text">لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ، و با استفاده از طراحان گرافیک است.</div>
+                                                        <div class="clearfix">
+                                                            <div class="pull-right">
+                                                                <div class="students">12 مدرس</div>
+                                                            </div>
+                                                            <div class="pull-left">
+                                                                <div class="hours">54 ساعت</div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+
+                                            <!-- Cource Block Two -->
+                                            <div class="cource-block-two col-lg-4 col-md-6 col-sm-12">
+                                                <div class="inner-box">
+                                                    <div class="image">
+                                                        <a href="course-detail.html"><img src="images/resource/course-10.jpg" alt=""></a>
+                                                    </div>
+                                                    <div class="lower-content">
+                                                        <h5><a href="course-detail.html">تایپوگرافی</a></h5>
+                                                        <div class="text">لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ، و با استفاده از طراحان گرافیک است.</div>
+                                                        <div class="clearfix">
+                                                            <div class="pull-right">
+                                                                <div class="students">12 مدرس</div>
+                                                            </div>
+                                                            <div class="pull-left">
+                                                                <div class="hours">54 ساعت</div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+
+                                            <!-- Cource Block Two -->
+                                            <div class="cource-block-two col-lg-4 col-md-6 col-sm-12">
+                                                <div class="inner-box">
+                                                    <div class="image">
+                                                        <a href="course-detail.html"><img src="images/resource/course-11.jpg" alt=""></a>
+                                                    </div>
+                                                    <div class="lower-content">
+                                                        <h5><a href="course-detail.html">انتخاب تصویر</a></h5>
+                                                        <div class="text">لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ، و با استفاده از طراحان گرافیک است.</div>
+                                                        <div class="clearfix">
+                                                            <div class="pull-right">
+                                                                <div class="students">12 مدرس</div>
+                                                            </div>
+                                                            <div class="pull-left">
+                                                                <div class="hours">54 ساعت</div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+
+                                        </div>
+
+                                    </div>
+                                    <div class="styled-pagination">
+                                        <ul class="clearfix">
+                                            <li class="prev"><a href="#"><span class="fa fa-angle-right"></span> </a></li>
+                                            <li><a href="#">1</a></li>
+                                            <li><a href="#">2</a></li>
+                                            <li class="active"><a href="#">3</a></li>
+                                            <li><a href="#">4</a></li>
+                                            <li><a href="#">5</a></li>
+                                            <li><a href="#">6</a></li>
+                                            <li><a href="#">7</a></li>
+                                            <li><a href="#">8</a></li>
+                                            <li class="next"><a href="#"><span class="fa fa-angle-left"></span> </a></li>
+                                        </ul>
+                                    </div>
+                                </div>
+
+                                <!-- Tab -->
+                                <div class="tab" id="prod-bookmark" style="display: none;">
+                                    <div class="content">
+
+                                        <div class="row clearfix">
+
+                                            <!-- Cource Block Two -->
+                                            <div class="cource-block-two col-lg-4 col-md-6 col-sm-12">
+                                                <div class="inner-box">
+                                                    <div class="image">
+                                                        <a href="course-detail.html"><img src="images/resource/course-6.jpg" alt=""></a>
+                                                    </div>
+                                                    <div class="lower-content">
+                                                        <h5><a href="course-detail.html">طراحی تعامل</a></h5>
+                                                        <div class="text">لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ، و با استفاده از طراحان گرافیک است.</div>
+                                                        <div class="clearfix">
+                                                            <div class="pull-right">
+                                                                <div class="students">12 مدرس</div>
+                                                            </div>
+                                                            <div class="pull-left">
+                                                                <div class="hours">54 ساعت</div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+
+                                            <!-- Cource Block Two -->
+                                            <div class="cource-block-two col-lg-4 col-md-6 col-sm-12">
+                                                <div class="inner-box">
+                                                    <div class="image">
+                                                        <a href="course-detail.html"><img src="images/resource/course-7.jpg" alt=""></a>
+                                                    </div>
+                                                    <div class="lower-content">
+                                                        <h5><a href="course-detail.html">طراحی بصری</a></h5>
+                                                        <div class="text">لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ، و با استفاده از طراحان گرافیک است.</div>
+                                                        <div class="clearfix">
+                                                            <div class="pull-right">
+                                                                <div class="students">12 مدرس</div>
+                                                            </div>
+                                                            <div class="pull-left">
+                                                                <div class="hours">54 ساعت</div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+
+                                            <!-- Cource Block Two -->
+                                            <div class="cource-block-two col-lg-4 col-md-6 col-sm-12">
+                                                <div class="inner-box">
+                                                    <div class="image">
+                                                        <a href="course-detail.html"><img src="images/resource/course-8.jpg" alt=""></a>
+                                                    </div>
+                                                    <div class="lower-content">
+                                                        <h5><a href="course-detail.html">دوره کدنویسی</a></h5>
+                                                        <div class="text">لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ، و با استفاده از طراحان گرافیک است.</div>
+                                                        <div class="clearfix">
+                                                            <div class="pull-right">
+                                                                <div class="students">12 مدرس</div>
+                                                            </div>
+                                                            <div class="pull-left">
+                                                                <div class="hours">54 ساعت</div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+
+                                            <!-- Cource Block Two -->
+                                            <div class="cource-block-two col-lg-4 col-md-6 col-sm-12">
+                                                <div class="inner-box">
+                                                    <div class="image">
+                                                        <a href="course-detail.html"><img src="images/resource/course-9.jpg" alt=""></a>
+                                                    </div>
+                                                    <div class="lower-content">
+                                                        <h5><a href="course-detail.html">تئوری رنگ</a></h5>
+                                                        <div class="text">لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ، و با استفاده از طراحان گرافیک است.</div>
+                                                        <div class="clearfix">
+                                                            <div class="pull-right">
+                                                                <div class="students">12 مدرس</div>
+                                                            </div>
+                                                            <div class="pull-left">
+                                                                <div class="hours">54 ساعت</div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+
+                                            <!-- Cource Block Two -->
+                                            <div class="cource-block-two col-lg-4 col-md-6 col-sm-12">
+                                                <div class="inner-box">
+                                                    <div class="image">
+                                                        <a href="course-detail.html"><img src="images/resource/course-10.jpg" alt=""></a>
+                                                    </div>
+                                                    <div class="lower-content">
+                                                        <h5><a href="course-detail.html">تایپوگرافی</a></h5>
+                                                        <div class="text">لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ، و با استفاده از طراحان گرافیک است.</div>
+                                                        <div class="clearfix">
+                                                            <div class="pull-right">
+                                                                <div class="students">12 مدرس</div>
+                                                            </div>
+                                                            <div class="pull-left">
+                                                                <div class="hours">54 ساعت</div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+
+                                            <!-- Cource Block Two -->
+                                            <div class="cource-block-two col-lg-4 col-md-6 col-sm-12">
+                                                <div class="inner-box">
+                                                    <div class="image">
+                                                        <a href="course-detail.html"><img src="images/resource/course-11.jpg" alt=""></a>
+                                                    </div>
+                                                    <div class="lower-content">
+                                                        <h5><a href="course-detail.html">انتخاب تصویر</a></h5>
+                                                        <div class="text">لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ، و با استفاده از طراحان گرافیک است.</div>
+                                                        <div class="clearfix">
+                                                            <div class="pull-right">
+                                                                <div class="students">12 مدرس</div>
+                                                            </div>
+                                                            <div class="pull-left">
+                                                                <div class="hours">54 ساعت</div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+
+                                        </div>
+
+                                    </div>
+                                </div>
+
+                                <!-- Tab -->
+                                <div class="tab" id="prod-billing" style="display: none;">
+                                    <div class="content">
+
+                                        <form asp-action="Index" method="post">
+                                            <div class="row">
+                                                <div class="col-md-7 col-sm-8 col-xs-12">
+                                                    <div class="input-group">
+                                                        <span class="input-group-addon" id="username"><i class="zmdi zmdi-balance-wallet"></i></span>
+                                                        <input type="number" class="form-control" asp-for="@Model.charge.Amount" placeholder="مبلغ به تومان">
+                                                        <div class="col-md-7 col-sm-8 col-xs-12">
+                                                            <button class="btn btn-success"> شارژ کیف پول </button>
+                                                        </div>
+                                                    </div>
+                                                </div>
+
+                                                <div class="text-danger" asp-validation-summary="All"></div>
+
+                                            </div>
+                                        </form>
+                                        <hr />
+                                        @{
+                                            List<MainPanelViewModel> list = ViewBag.ListWallet as List<MainPanelViewModel>;
+                                        }
+                                        <table class="table table-bordered">
+                                            <tr>
+                                                <th>مبلغ</th>
+                                                <th>تاریخ</th>
+                                                <th>نوع تراکنش</th>
+                                                <th>شرح</th>
+                                            </tr>
+                                            @foreach (var item in list)
+                                            {
+                                                <tr>
+                                                    <td>@item.wallet.Amount</td>
+                                                    <td>@item.wallet.DateTime.ToShamsi()</td>
+
+                                                    <td>
+                                                        @if (item.wallet.Type == 2)
+                                                        {
+                                                            <p class="text-success">واریز به حساب</p>
+                                                        }
+                                                        else
+                                                        {
+                                                            <p class="text-danger">برداشت از حساب</p>
+                                                        }
+                                                    </td>
+                                                    <td>@item.wallet.Description</td>
+
+                                                </tr>
+                                            }
+                                        </table>
+                                    </div>
+                                </div>
+
+                                <!-- Tab -->
+                                <div class="tab" id="prod-setting" style="display: none;">
+                                    <div class="content">
+
+                                        <div class="row clearfix">
+
+                                            <!-- Cource Block Two -->
+                                            <div class="cource-block-two col-lg-4 col-md-6 col-sm-12">
+                                                <div class="inner-box">
+                                                    <div class="image">
+                                                        <a href="course-detail.html"><img src="images/resource/course-6.jpg" alt=""></a>
+                                                    </div>
+                                                    <div class="lower-content">
+                                                        <h5><a href="course-detail.html">طراحی تعامل</a></h5>
+                                                        <div class="text">لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ، و با استفاده از طراحان گرافیک است.</div>
+                                                        <div class="clearfix">
+                                                            <div class="pull-right">
+                                                                <div class="students">12 مدرس</div>
+                                                            </div>
+                                                            <div class="pull-left">
+                                                                <div class="hours">54 ساعت</div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+
+                                            <!-- Cource Block Two -->
+                                            <div class="cource-block-two col-lg-4 col-md-6 col-sm-12">
+                                                <div class="inner-box">
+                                                    <div class="image">
+                                                        <a href="course-detail.html"><img src="images/resource/course-7.jpg" alt=""></a>
+                                                    </div>
+                                                    <div class="lower-content">
+                                                        <h5><a href="course-detail.html">طراحی بصری</a></h5>
+                                                        <div class="text">لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ، و با استفاده از طراحان گرافیک است.</div>
+                                                        <div class="clearfix">
+                                                            <div class="pull-right">
+                                                                <div class="students">12 مدرس</div>
+                                                            </div>
+                                                            <div class="pull-left">
+                                                                <div class="hours">54 ساعت</div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+
+                                            <!-- Cource Block Two -->
+                                            <div class="cource-block-two col-lg-4 col-md-6 col-sm-12">
+                                                <div class="inner-box">
+                                                    <div class="image">
+                                                        <a href="course-detail.html"><img src="images/resource/course-8.jpg" alt=""></a>
+                                                    </div>
+                                                    <div class="lower-content">
+                                                        <h5><a href="course-detail.html">دوره کدنویسی</a></h5>
+                                                        <div class="text">لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ، و با استفاده از طراحان گرافیک است.</div>
+                                                        <div class="clearfix">
+                                                            <div class="pull-right">
+                                                                <div class="students">12 مدرس</div>
+                                                            </div>
+                                                            <div class="pull-left">
+                                                                <div class="hours">54 ساعت</div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+
+                                            <!-- Cource Block Two -->
+                                            <div class="cource-block-two col-lg-4 col-md-6 col-sm-12">
+                                                <div class="inner-box">
+                                                    <div class="image">
+                                                        <a href="course-detail.html"><img src="images/resource/course-9.jpg" alt=""></a>
+                                                    </div>
+                                                    <div class="lower-content">
+                                                        <h5><a href="course-detail.html">تئوری رنگ</a></h5>
+                                                        <div class="text">لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ، و با استفاده از طراحان گرافیک است.</div>
+                                                        <div class="clearfix">
+                                                            <div class="pull-right">
+                                                                <div class="students">12 مدرس</div>
+                                                            </div>
+                                                            <div class="pull-left">
+                                                                <div class="hours">54 ساعت</div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+
+                                            <!-- Cource Block Two -->
+                                            <div class="cource-block-two col-lg-4 col-md-6 col-sm-12">
+                                                <div class="inner-box">
+                                                    <div class="image">
+                                                        <a href="course-detail.html"><img src="images/resource/course-10.jpg" alt=""></a>
+                                                    </div>
+                                                    <div class="lower-content">
+                                                        <h5><a href="course-detail.html">تایپوگرافی</a></h5>
+                                                        <div class="text">لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ، و با استفاده از طراحان گرافیک است.</div>
+                                                        <div class="clearfix">
+                                                            <div class="pull-right">
+                                                                <div class="students">12 مدرس</div>
+                                                            </div>
+                                                            <div class="pull-left">
+                                                                <div class="hours">54 ساعت</div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+
+                                            <!-- Cource Block Two -->
+                                            <div class="cource-block-two col-lg-4 col-md-6 col-sm-12">
+                                                <div class="inner-box">
+                                                    <div class="image">
+                                                        <a href="course-detail.html"><img src="images/resource/course-11.jpg" alt=""></a>
+                                                    </div>
+                                                    <div class="lower-content">
+                                                        <h5><a href="course-detail.html">انتخاب تصویر</a></h5>
+                                                        <div class="text">لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ، و با استفاده از طراحان گرافیک است.</div>
+                                                        <div class="clearfix">
+                                                            <div class="pull-right">
+                                                                <div class="students">12 مدرس</div>
+                                                            </div>
+                                                            <div class="pull-left">
+                                                                <div class="hours">54 ساعت</div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+
+                                        </div>
+
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Post Share Options -->
+
+
+                </div>
+            </div>
+
+        </div>
+
+    </div>
+
+    <!-- Saved Books Section -->
+    <div class="saved-books-section">
+        <div class="auto-container">
+            <div class="sec-title">
+                <h2>کتاب های ذخیره شده</h2>
+            </div>
+            <div class="row clearfix">
+
+                <!-- Book Block -->
+                <div class="book-block col-lg-3 col-md-4 col-sm-12">
+                    <div class="inner-box">
+                        <figure class="image-box">
+                            <img src="images/resource/book-14.jpg" alt="">
+                            <!-- Overlay Box -->
+                            <div class="overlay-box">
+                                <div class="overlay-inner">
+                                    <div class="content">
+                                        <a href="books-detail.html" class="link"><span class="icon fa fa-link"></span></a>
+                                        <a href="images/resource/book-14.jpg" data-fancybox="books" data-caption="" class="link"><span class="icon flaticon-full-screen"></span></a>
+                                    </div>
+                                </div>
+                            </div>
+                        </figure>
+                        <div class="lower-box">
+                            <h6><a href="books-detail.html">به من فکر نکن</a></h6>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Book Block -->
+                <div class="book-block col-lg-3 col-md-4 col-sm-12">
+                    <div class="inner-box">
+                        <figure class="image-box">
+                            <img src="images/resource/book-15.jpg" alt="">
+                            <!-- Overlay Box -->
+                            <div class="overlay-box">
+                                <div class="overlay-inner">
+                                    <div class="content">
+                                        <a href="books-detail.html" class="link"><span class="icon fa fa-link"></span></a>
+                                        <a href="images/resource/book-15.jpg" data-fancybox="books" data-caption="" class="link"><span class="icon flaticon-full-screen"></span></a>
+                                    </div>
+                                </div>
+                            </div>
+                        </figure>
+                        <div class="lower-box">
+                            <h6><a href="books-detail.html">طراحی روزمره</a></h6>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Book Block -->
+                <div class="book-block col-lg-3 col-md-4 col-sm-12">
+                    <div class="inner-box">
+                        <figure class="image-box">
+                            <img src="images/resource/book-16.jpg" alt="">
+                            <!-- Overlay Box -->
+                            <div class="overlay-box">
+                                <div class="overlay-inner">
+                                    <div class="content">
+                                        <a href="books-detail.html" class="link"><span class="icon fa fa-link"></span></a>
+                                        <a href="images/resource/book-16.jpg" data-fancybox="books" data-caption="" class="link"><span class="icon flaticon-full-screen"></span></a>
+                                    </div>
+                                </div>
+                            </div>
+                        </figure>
+                        <div class="lower-box">
+                            <h6><a href="books-detail.html">طراحی UX</a></h6>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Book Block -->
+                <div class="book-block col-lg-3 col-md-4 col-sm-12">
+                    <div class="inner-box">
+                        <figure class="image-box">
+                            <img src="images/resource/book-17.jpg" alt="">
+                            <!-- Overlay Box -->
+                            <div class="overlay-box">
+                                <div class="overlay-inner">
+                                    <div class="content">
+                                        <a href="books-detail.html" class="link"><span class="icon fa fa-link"></span></a>
+                                        <a href="images/resource/book-17.jpg" data-fancybox="books" data-caption="" class="link"><span class="icon flaticon-full-screen"></span></a>
+                                    </div>
+                                </div>
+                            </div>
+                        </figure>
+                        <div class="lower-box">
+                            <h6><a href="books-detail.html">طراحی تعامل</a></h6>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+
+        </div>
+    </div>
+
+</section>

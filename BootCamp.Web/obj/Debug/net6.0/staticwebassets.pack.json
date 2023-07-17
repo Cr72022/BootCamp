@@ -1,0 +1,1149 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\AdminContent\\css\\bootstrap-rtl.css",
+      "PackagePath": "staticwebassets\\AdminContent\\css\\bootstrap-rtl.css"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\AdminContent\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\AdminContent\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\AdminContent\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\AdminContent\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\AdminContent\\css\\plugins\\dataTables\\dataTables.bootstrap.css",
+      "PackagePath": "staticwebassets\\AdminContent\\css\\plugins\\dataTables\\dataTables.bootstrap.css"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\AdminContent\\css\\plugins\\morris\\morris-0.4.3.min.css",
+      "PackagePath": "staticwebassets\\AdminContent\\css\\plugins\\morris\\morris-0.4.3.min.css"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\AdminContent\\css\\plugins\\social-buttons\\social-buttons.css",
+      "PackagePath": "staticwebassets\\AdminContent\\css\\plugins\\social-buttons\\social-buttons.css"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\AdminContent\\css\\plugins\\timeline\\timeline.css",
+      "PackagePath": "staticwebassets\\AdminContent\\css\\plugins\\timeline\\timeline.css"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\AdminContent\\css\\sb-admin.css",
+      "PackagePath": "staticwebassets\\AdminContent\\css\\sb-admin.css"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\AdminContent\\font-awesome\\css\\font-awesome.css",
+      "PackagePath": "staticwebassets\\AdminContent\\font-awesome\\css\\font-awesome.css"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\AdminContent\\font-awesome\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\AdminContent\\font-awesome\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\AdminContent\\font-awesome\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\AdminContent\\font-awesome\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\AdminContent\\font-awesome\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\AdminContent\\font-awesome\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\AdminContent\\font-awesome\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\AdminContent\\font-awesome\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\AdminContent\\font-awesome\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\AdminContent\\font-awesome\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\AdminContent\\font-awesome\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\AdminContent\\font-awesome\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\AdminContent\\font-awesome\\less\\bordered-pulled.less",
+      "PackagePath": "staticwebassets\\AdminContent\\font-awesome\\less\\bordered-pulled.less"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\AdminContent\\font-awesome\\less\\core.less",
+      "PackagePath": "staticwebassets\\AdminContent\\font-awesome\\less\\core.less"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\AdminContent\\font-awesome\\less\\fixed-width.less",
+      "PackagePath": "staticwebassets\\AdminContent\\font-awesome\\less\\fixed-width.less"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\AdminContent\\font-awesome\\less\\font-awesome.less",
+      "PackagePath": "staticwebassets\\AdminContent\\font-awesome\\less\\font-awesome.less"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\AdminContent\\font-awesome\\less\\icons.less",
+      "PackagePath": "staticwebassets\\AdminContent\\font-awesome\\less\\icons.less"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\AdminContent\\font-awesome\\less\\larger.less",
+      "PackagePath": "staticwebassets\\AdminContent\\font-awesome\\less\\larger.less"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\AdminContent\\font-awesome\\less\\list.less",
+      "PackagePath": "staticwebassets\\AdminContent\\font-awesome\\less\\list.less"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\AdminContent\\font-awesome\\less\\mixins.less",
+      "PackagePath": "staticwebassets\\AdminContent\\font-awesome\\less\\mixins.less"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\AdminContent\\font-awesome\\less\\path.less",
+      "PackagePath": "staticwebassets\\AdminContent\\font-awesome\\less\\path.less"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\AdminContent\\font-awesome\\less\\rotated-flipped.less",
+      "PackagePath": "staticwebassets\\AdminContent\\font-awesome\\less\\rotated-flipped.less"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\AdminContent\\font-awesome\\less\\spinning.less",
+      "PackagePath": "staticwebassets\\AdminContent\\font-awesome\\less\\spinning.less"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\AdminContent\\font-awesome\\less\\stacked.less",
+      "PackagePath": "staticwebassets\\AdminContent\\font-awesome\\less\\stacked.less"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\AdminContent\\font-awesome\\less\\variables.less",
+      "PackagePath": "staticwebassets\\AdminContent\\font-awesome\\less\\variables.less"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\AdminContent\\font-awesome\\scss\\_bordered-pulled.scss",
+      "PackagePath": "staticwebassets\\AdminContent\\font-awesome\\scss\\_bordered-pulled.scss"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\AdminContent\\font-awesome\\scss\\_core.scss",
+      "PackagePath": "staticwebassets\\AdminContent\\font-awesome\\scss\\_core.scss"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\AdminContent\\font-awesome\\scss\\_fixed-width.scss",
+      "PackagePath": "staticwebassets\\AdminContent\\font-awesome\\scss\\_fixed-width.scss"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\AdminContent\\font-awesome\\scss\\_icons.scss",
+      "PackagePath": "staticwebassets\\AdminContent\\font-awesome\\scss\\_icons.scss"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\AdminContent\\font-awesome\\scss\\_larger.scss",
+      "PackagePath": "staticwebassets\\AdminContent\\font-awesome\\scss\\_larger.scss"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\AdminContent\\font-awesome\\scss\\_list.scss",
+      "PackagePath": "staticwebassets\\AdminContent\\font-awesome\\scss\\_list.scss"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\AdminContent\\font-awesome\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\AdminContent\\font-awesome\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\AdminContent\\font-awesome\\scss\\_path.scss",
+      "PackagePath": "staticwebassets\\AdminContent\\font-awesome\\scss\\_path.scss"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\AdminContent\\font-awesome\\scss\\_rotated-flipped.scss",
+      "PackagePath": "staticwebassets\\AdminContent\\font-awesome\\scss\\_rotated-flipped.scss"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\AdminContent\\font-awesome\\scss\\_spinning.scss",
+      "PackagePath": "staticwebassets\\AdminContent\\font-awesome\\scss\\_spinning.scss"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\AdminContent\\font-awesome\\scss\\_stacked.scss",
+      "PackagePath": "staticwebassets\\AdminContent\\font-awesome\\scss\\_stacked.scss"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\AdminContent\\font-awesome\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\AdminContent\\font-awesome\\scss\\_variables.scss"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\AdminContent\\font-awesome\\scss\\font-awesome.scss",
+      "PackagePath": "staticwebassets\\AdminContent\\font-awesome\\scss\\font-awesome.scss"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\AdminContent\\fonts\\glyphicons-halflings-regular.eot",
+      "PackagePath": "staticwebassets\\AdminContent\\fonts\\glyphicons-halflings-regular.eot"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\AdminContent\\fonts\\glyphicons-halflings-regular.svg",
+      "PackagePath": "staticwebassets\\AdminContent\\fonts\\glyphicons-halflings-regular.svg"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\AdminContent\\fonts\\glyphicons-halflings-regular.ttf",
+      "PackagePath": "staticwebassets\\AdminContent\\fonts\\glyphicons-halflings-regular.ttf"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\AdminContent\\fonts\\glyphicons-halflings-regular.woff",
+      "PackagePath": "staticwebassets\\AdminContent\\fonts\\glyphicons-halflings-regular.woff"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\AdminContent\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\AdminContent\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\AdminContent\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\AdminContent\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\AdminContent\\js\\demo\\dashboard-demo.js",
+      "PackagePath": "staticwebassets\\AdminContent\\js\\demo\\dashboard-demo.js"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\AdminContent\\js\\demo\\flot-demo.js",
+      "PackagePath": "staticwebassets\\AdminContent\\js\\demo\\flot-demo.js"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\AdminContent\\js\\demo\\morris-demo.js",
+      "PackagePath": "staticwebassets\\AdminContent\\js\\demo\\morris-demo.js"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\AdminContent\\js\\jquery-1.10.2.js",
+      "PackagePath": "staticwebassets\\AdminContent\\js\\jquery-1.10.2.js"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\AdminContent\\js\\plugins\\dataTables\\dataTables.bootstrap.js",
+      "PackagePath": "staticwebassets\\AdminContent\\js\\plugins\\dataTables\\dataTables.bootstrap.js"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\AdminContent\\js\\plugins\\dataTables\\jquery.dataTables.js",
+      "PackagePath": "staticwebassets\\AdminContent\\js\\plugins\\dataTables\\jquery.dataTables.js"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\AdminContent\\js\\plugins\\flot\\excanvas.min.js",
+      "PackagePath": "staticwebassets\\AdminContent\\js\\plugins\\flot\\excanvas.min.js"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\AdminContent\\js\\plugins\\flot\\jquery.flot.js",
+      "PackagePath": "staticwebassets\\AdminContent\\js\\plugins\\flot\\jquery.flot.js"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\AdminContent\\js\\plugins\\flot\\jquery.flot.pie.js",
+      "PackagePath": "staticwebassets\\AdminContent\\js\\plugins\\flot\\jquery.flot.pie.js"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\AdminContent\\js\\plugins\\flot\\jquery.flot.resize.js",
+      "PackagePath": "staticwebassets\\AdminContent\\js\\plugins\\flot\\jquery.flot.resize.js"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\AdminContent\\js\\plugins\\flot\\jquery.flot.tooltip.min.js",
+      "PackagePath": "staticwebassets\\AdminContent\\js\\plugins\\flot\\jquery.flot.tooltip.min.js"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\AdminContent\\js\\plugins\\metisMenu\\jquery.metisMenu.js",
+      "PackagePath": "staticwebassets\\AdminContent\\js\\plugins\\metisMenu\\jquery.metisMenu.js"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\AdminContent\\js\\plugins\\morris\\morris.js",
+      "PackagePath": "staticwebassets\\AdminContent\\js\\plugins\\morris\\morris.js"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\AdminContent\\js\\plugins\\morris\\raphael-2.1.0.min.js",
+      "PackagePath": "staticwebassets\\AdminContent\\js\\plugins\\morris\\raphael-2.1.0.min.js"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\AdminContent\\js\\sb-admin.js",
+      "PackagePath": "staticwebassets\\AdminContent\\js\\sb-admin.js"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\UserAvatar\\1b30184ec96844efa9dc4edf9b89d0f5.jpg",
+      "PackagePath": "staticwebassets\\UserAvatar\\1b30184ec96844efa9dc4edf9b89d0f5.jpg"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\UserAvatar\\2d054f83a1c748878857733bd303455a.jpg",
+      "PackagePath": "staticwebassets\\UserAvatar\\2d054f83a1c748878857733bd303455a.jpg"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\UserAvatar\\7a8a08ad556946e0a0d60e4274a76261.jpg",
+      "PackagePath": "staticwebassets\\UserAvatar\\7a8a08ad556946e0a0d60e4274a76261.jpg"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\UserAvatar\\9e3c1901a98f45fbbebe235e65738cb7.jpg",
+      "PackagePath": "staticwebassets\\UserAvatar\\9e3c1901a98f45fbbebe235e65738cb7.jpg"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\UserAvatar\\Default.jpg",
+      "PackagePath": "staticwebassets\\UserAvatar\\Default.jpg"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\UserAvatar\\e4fe6a1e47e54938bee1d055f1b47c4f.jpg",
+      "PackagePath": "staticwebassets\\UserAvatar\\e4fe6a1e47e54938bee1d055f1b47c4f.jpg"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\UserAvatar\\f46a3947ae72427a8f18b2ba8b3bc0ea.jpg",
+      "PackagePath": "staticwebassets\\UserAvatar\\f46a3947ae72427a8f18b2ba8b3bc0ea.jpg"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\css\\animate.css",
+      "PackagePath": "staticwebassets\\css\\animate.css"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\css\\custom-animate.css",
+      "PackagePath": "staticwebassets\\css\\custom-animate.css"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\css\\flaticon.css",
+      "PackagePath": "staticwebassets\\css\\flaticon.css"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\css\\font-awesome.css",
+      "PackagePath": "staticwebassets\\css\\font-awesome.css"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\css\\jquery-ui.css",
+      "PackagePath": "staticwebassets\\css\\jquery-ui.css"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\css\\jquery.bootstrap-touchspin.css",
+      "PackagePath": "staticwebassets\\css\\jquery.bootstrap-touchspin.css"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\css\\jquery.fancybox.min.css",
+      "PackagePath": "staticwebassets\\css\\jquery.fancybox.min.css"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\css\\jquery.mCustomScrollbar.min.css",
+      "PackagePath": "staticwebassets\\css\\jquery.mCustomScrollbar.min.css"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\css\\main.css",
+      "PackagePath": "staticwebassets\\css\\main.css"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\css\\owl.css",
+      "PackagePath": "staticwebassets\\css\\owl.css"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\css\\responsive.css",
+      "PackagePath": "staticwebassets\\css\\responsive.css"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\css\\swiper.css",
+      "PackagePath": "staticwebassets\\css\\swiper.css"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\fonts\\flaticon.woff",
+      "PackagePath": "staticwebassets\\fonts\\flaticon.woff"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\fonts\\iranyekanwebbold.woff2",
+      "PackagePath": "staticwebassets\\fonts\\iranyekanwebbold.woff2"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\fonts\\iranyekanweblight.woff2",
+      "PackagePath": "staticwebassets\\fonts\\iranyekanweblight.woff2"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\fonts\\iranyekanwebregular.woff2",
+      "PackagePath": "staticwebassets\\fonts\\iranyekanwebregular.woff2"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\images\\background\\1.png",
+      "PackagePath": "staticwebassets\\images\\background\\1.png"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\images\\background\\2.jpg",
+      "PackagePath": "staticwebassets\\images\\background\\2.jpg"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\images\\background\\3.png",
+      "PackagePath": "staticwebassets\\images\\background\\3.png"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\images\\background\\pattern-3.png",
+      "PackagePath": "staticwebassets\\images\\background\\pattern-3.png"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\images\\favicon.png",
+      "PackagePath": "staticwebassets\\images\\favicon.png"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\images\\footer-logo-2.png",
+      "PackagePath": "staticwebassets\\images\\footer-logo-2.png"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\images\\footer-logo.png",
+      "PackagePath": "staticwebassets\\images\\footer-logo.png"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\images\\icons\\dotted-layer-1.png",
+      "PackagePath": "staticwebassets\\images\\icons\\dotted-layer-1.png"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\images\\icons\\dotted-layer-2.png",
+      "PackagePath": "staticwebassets\\images\\icons\\dotted-layer-2.png"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\images\\icons\\dotted-layer-3.png",
+      "PackagePath": "staticwebassets\\images\\icons\\dotted-layer-3.png"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\images\\icons\\dotted-layer.png",
+      "PackagePath": "staticwebassets\\images\\icons\\dotted-layer.png"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\images\\icons\\icon-1.png",
+      "PackagePath": "staticwebassets\\images\\icons\\icon-1.png"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\images\\icons\\icon-2.png",
+      "PackagePath": "staticwebassets\\images\\icons\\icon-2.png"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\images\\icons\\icon-3.png",
+      "PackagePath": "staticwebassets\\images\\icons\\icon-3.png"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\images\\icons\\icon-4.png",
+      "PackagePath": "staticwebassets\\images\\icons\\icon-4.png"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\images\\icons\\icon-5.png",
+      "PackagePath": "staticwebassets\\images\\icons\\icon-5.png"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\images\\icons\\icon-6.png",
+      "PackagePath": "staticwebassets\\images\\icons\\icon-6.png"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\images\\icons\\icon-7.png",
+      "PackagePath": "staticwebassets\\images\\icons\\icon-7.png"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\images\\icons\\icon-8.png",
+      "PackagePath": "staticwebassets\\images\\icons\\icon-8.png"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\images\\icons\\icon-9.png",
+      "PackagePath": "staticwebassets\\images\\icons\\icon-9.png"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\images\\icons\\preloader.svg",
+      "PackagePath": "staticwebassets\\images\\icons\\preloader.svg"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\images\\icons\\waves-shape.png",
+      "PackagePath": "staticwebassets\\images\\icons\\waves-shape.png"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\images\\logo-2.png",
+      "PackagePath": "staticwebassets\\images\\logo-2.png"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\images\\logo-3.png",
+      "PackagePath": "staticwebassets\\images\\logo-3.png"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\images\\logo-4.png",
+      "PackagePath": "staticwebassets\\images\\logo-4.png"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\images\\logo-5.png",
+      "PackagePath": "staticwebassets\\images\\logo-5.png"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\images\\logo.png",
+      "PackagePath": "staticwebassets\\images\\logo.png"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\images\\main-slider\\1.png",
+      "PackagePath": "staticwebassets\\images\\main-slider\\1.png"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\images\\main-slider\\content-image-2.png",
+      "PackagePath": "staticwebassets\\images\\main-slider\\content-image-2.png"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\images\\main-slider\\content-image.png",
+      "PackagePath": "staticwebassets\\images\\main-slider\\content-image.png"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\images\\main-slider\\pattern-layer-1.png",
+      "PackagePath": "staticwebassets\\images\\main-slider\\pattern-layer-1.png"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\images\\main-slider\\pattern-layer-2.png",
+      "PackagePath": "staticwebassets\\images\\main-slider\\pattern-layer-2.png"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\images\\resource\\author-1.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\author-1.jpg"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\images\\resource\\author-10.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\author-10.jpg"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\images\\resource\\author-11.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\author-11.jpg"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\images\\resource\\author-12.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\author-12.jpg"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\images\\resource\\author-13.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\author-13.jpg"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\images\\resource\\author-14.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\author-14.jpg"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\images\\resource\\author-2.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\author-2.jpg"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\images\\resource\\author-3.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\author-3.jpg"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\images\\resource\\author-4.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\author-4.jpg"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\images\\resource\\author-5.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\author-5.jpg"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\images\\resource\\author-6.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\author-6.jpg"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\images\\resource\\author-7.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\author-7.jpg"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\images\\resource\\author-8.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\author-8.jpg"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\images\\resource\\author-9.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\author-9.jpg"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\images\\resource\\banner.png",
+      "PackagePath": "staticwebassets\\images\\resource\\banner.png"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\images\\resource\\book-1.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\book-1.jpg"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\images\\resource\\book-10.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\book-10.jpg"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\images\\resource\\book-11.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\book-11.jpg"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\images\\resource\\book-12.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\book-12.jpg"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\images\\resource\\book-13.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\book-13.jpg"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\images\\resource\\book-14.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\book-14.jpg"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\images\\resource\\book-15.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\book-15.jpg"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\images\\resource\\book-16.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\book-16.jpg"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\images\\resource\\book-17.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\book-17.jpg"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\images\\resource\\book-18.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\book-18.jpg"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\images\\resource\\book-2.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\book-2.jpg"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\images\\resource\\book-3.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\book-3.jpg"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\images\\resource\\book-4.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\book-4.jpg"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\images\\resource\\book-5.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\book-5.jpg"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\images\\resource\\book-6.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\book-6.jpg"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\images\\resource\\book-7.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\book-7.jpg"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\images\\resource\\book-8.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\book-8.jpg"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\images\\resource\\book-9.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\book-9.jpg"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\images\\resource\\course-1.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\course-1.jpg"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\images\\resource\\course-10.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\course-10.jpg"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\images\\resource\\course-11.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\course-11.jpg"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\images\\resource\\course-12.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\course-12.jpg"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\images\\resource\\course-13.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\course-13.jpg"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\images\\resource\\course-14.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\course-14.jpg"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\images\\resource\\course-15.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\course-15.jpg"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\images\\resource\\course-16.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\course-16.jpg"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\images\\resource\\course-17.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\course-17.jpg"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\images\\resource\\course-18.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\course-18.jpg"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\images\\resource\\course-19.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\course-19.jpg"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\images\\resource\\course-2.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\course-2.jpg"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\images\\resource\\course-20.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\course-20.jpg"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\images\\resource\\course-21.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\course-21.jpg"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\images\\resource\\course-22.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\course-22.jpg"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\images\\resource\\course-23.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\course-23.jpg"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\images\\resource\\course-24.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\course-24.jpg"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\images\\resource\\course-25.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\course-25.jpg"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\images\\resource\\course-26.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\course-26.jpg"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\images\\resource\\course-27.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\course-27.jpg"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\images\\resource\\course-28.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\course-28.jpg"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\images\\resource\\course-3.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\course-3.jpg"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\images\\resource\\course-4.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\course-4.jpg"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\images\\resource\\course-5.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\course-5.jpg"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\images\\resource\\course-6.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\course-6.jpg"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\images\\resource\\course-7.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\course-7.jpg"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\images\\resource\\course-8.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\course-8.jpg"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\images\\resource\\course-9.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\course-9.jpg"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\images\\resource\\education-1.png",
+      "PackagePath": "staticwebassets\\images\\resource\\education-1.png"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\images\\resource\\education-2.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\education-2.jpg"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\images\\resource\\education-3.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\education-3.jpg"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\images\\resource\\education.png",
+      "PackagePath": "staticwebassets\\images\\resource\\education.png"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\images\\resource\\error.png",
+      "PackagePath": "staticwebassets\\images\\resource\\error.png"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\images\\resource\\image-1.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\image-1.jpg"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\images\\resource\\institute-1.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\institute-1.jpg"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\images\\resource\\institute-2.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\institute-2.jpg"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\images\\resource\\institute-3.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\institute-3.jpg"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\images\\resource\\news-1.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\news-1.jpg"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\images\\resource\\news-2.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\news-2.jpg"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\images\\resource\\post-thumb-1.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\post-thumb-1.jpg"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\images\\resource\\post-thumb-2.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\post-thumb-2.jpg"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\images\\resource\\post-thumb-3.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\post-thumb-3.jpg"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\images\\resource\\price-icon-1.png",
+      "PackagePath": "staticwebassets\\images\\resource\\price-icon-1.png"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\images\\resource\\price-icon-2.png",
+      "PackagePath": "staticwebassets\\images\\resource\\price-icon-2.png"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\images\\resource\\price-icon-3.png",
+      "PackagePath": "staticwebassets\\images\\resource\\price-icon-3.png"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\images\\resource\\price-icon-4.png",
+      "PackagePath": "staticwebassets\\images\\resource\\price-icon-4.png"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\images\\resource\\price-icon-5.png",
+      "PackagePath": "staticwebassets\\images\\resource\\price-icon-5.png"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\images\\resource\\price-icon-6.png",
+      "PackagePath": "staticwebassets\\images\\resource\\price-icon-6.png"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\images\\resource\\program.png",
+      "PackagePath": "staticwebassets\\images\\resource\\program.png"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\images\\resource\\student-1.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\student-1.jpg"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\images\\resource\\student-2.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\student-2.jpg"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\images\\resource\\video-image-1.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\video-image-1.jpg"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\images\\resource\\video-image.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\video-image.jpg"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\js\\appear.js",
+      "PackagePath": "staticwebassets\\js\\appear.js"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\js\\element-in-view.js",
+      "PackagePath": "staticwebassets\\js\\element-in-view.js"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\js\\jquery-ui.js",
+      "PackagePath": "staticwebassets\\js\\jquery-ui.js"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\js\\jquery.countdown.js",
+      "PackagePath": "staticwebassets\\js\\jquery.countdown.js"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\js\\jquery.easing.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.easing.min.js"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\js\\jquery.fancybox.js",
+      "PackagePath": "staticwebassets\\js\\jquery.fancybox.js"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\js\\jquery.js",
+      "PackagePath": "staticwebassets\\js\\jquery.js"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\js\\jquery.mCustomScrollbar.concat.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.mCustomScrollbar.concat.min.js"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\js\\jquery.paroller.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.paroller.min.js"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\js\\jquery.scrollTo.js",
+      "PackagePath": "staticwebassets\\js\\jquery.scrollTo.js"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\js\\owl.js",
+      "PackagePath": "staticwebassets\\js\\owl.js"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\js\\parallax.min.js",
+      "PackagePath": "staticwebassets\\js\\parallax.min.js"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\js\\popper.min.js",
+      "PackagePath": "staticwebassets\\js\\popper.min.js"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\js\\script.js",
+      "PackagePath": "staticwebassets\\js\\script.js"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\js\\swiper.min.js",
+      "PackagePath": "staticwebassets\\js\\swiper.min.js"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\js\\tilt.jquery.min.js",
+      "PackagePath": "staticwebassets\\js\\tilt.jquery.min.js"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\js\\wow.js",
+      "PackagePath": "staticwebassets\\js\\wow.js"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\New folder\\TuturialPractice\\BootCamp\\BootCamp\\BootCamp.Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.BootCamp.Web.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.BootCamp.Web.props",
+      "PackagePath": "build\\BootCamp.Web.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.BootCamp.Web.props",
+      "PackagePath": "buildMultiTargeting\\BootCamp.Web.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.BootCamp.Web.props",
+      "PackagePath": "buildTransitive\\BootCamp.Web.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
