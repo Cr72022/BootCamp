@@ -325,7 +325,17 @@ namespace BootCamp.Core.Services
             return info;
         }
 
-       
+
+        public Wallet GetWalletByWalletId(int walletId)
+        {
+            return _context.Wallet.Find(walletId);
+        }
+
+        public void UpdateWallet(Wallet wallet)
+        {
+            _context.Wallet.Update(wallet);
+            _context.SaveChanges();
+        }
 
         public void UpdateUser(User user)
         {

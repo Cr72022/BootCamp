@@ -7,7 +7,7 @@ using TopLearn.Core.Security;
 
 namespace BootCamp.Web.Pages.Admin.User
 {
-    [PermissionChecker(3)]
+    [PermissionChecker(2)]
 
     public class CreateUserModel : PageModel
     {

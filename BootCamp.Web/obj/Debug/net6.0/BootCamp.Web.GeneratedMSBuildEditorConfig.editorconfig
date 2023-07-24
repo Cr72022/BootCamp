@@ -32,6 +32,14 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcVXNlclBhbmVsXFZpZXdzXF9WaWV3U3RhcnQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+[D:/New folder/TuturialPractice/BootCamp/BootCamp/BootCamp.Web/Pages/Admin/Courses/CreateCourse.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cQ291cnNlc1xDcmVhdGVDb3Vyc2UuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/New folder/TuturialPractice/BootCamp/BootCamp/BootCamp.Web/Pages/Admin/Courses/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cQ291cnNlc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/New folder/TuturialPractice/BootCamp/BootCamp/BootCamp.Web/Pages/Admin/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
@@ -98,6 +106,10 @@ build_metadata.AdditionalFiles.CssScope =
 
 [D:/New folder/TuturialPractice/BootCamp/BootCamp/BootCamp.Web/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/New folder/TuturialPractice/BootCamp/BootCamp/BootCamp.Web/Views/Home/onlinePayment.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxvbmxpbmVQYXltZW50LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/New folder/TuturialPractice/BootCamp/BootCamp/BootCamp.Web/Views/Shared/Components/CourseGroupComponent/CourseGroup.cshtml]

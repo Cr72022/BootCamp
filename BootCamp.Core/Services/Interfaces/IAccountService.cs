@@ -36,6 +36,8 @@ namespace BootCamp.Core.Services.Interfaces
         int AddWallet(Wallet wallet);
         int AddUser(User user);
         User GetUserById(int userId);
+        Wallet GetWalletByWalletId(int walletId);
+        void UpdateWallet(Wallet wallet);
         #endregion
         #region Admin Panel
 

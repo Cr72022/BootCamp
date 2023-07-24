@@ -6,7 +6,7 @@ using TopLearn.Core.Security;
 
 namespace BootCamp.Web.Pages.Admin.User
 {
-    [PermissionChecker(5)]
+    [PermissionChecker(4)]
 
     public class DeleteUserModel : PageModel
     {

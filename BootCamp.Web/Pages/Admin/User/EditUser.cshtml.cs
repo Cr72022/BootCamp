@@ -12,7 +12,7 @@ using TopLearn.Core.Security;
 
 namespace TopLearn.Web.Pages.Admin.Users
 {
-    [PermissionChecker(4)]
+    [PermissionChecker(3)]
 
     public class EditUserModel : PageModel
     {

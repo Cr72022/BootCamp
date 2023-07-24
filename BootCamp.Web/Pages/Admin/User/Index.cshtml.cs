@@ -6,7 +6,7 @@ using TopLearn.Core.Security;
 
 namespace BootCamp.Web.Pages.Admin.User
 {
-    [PermissionChecker(2)]
+    [PermissionChecker(1)]
 
     public class IndexModel : PageModel
     {
